@@ -77,27 +77,17 @@ Enhance with script.js for interactivity.
 Clone the repository and open each project folder:
 
 bash
-git clone https://github.com/yourusername/web-projects.git
+git clone https://github.com/sujitha26-coder/OIBSIP
 cd web-projects
 Each project has its own index.html, style.css, and optional script.js.
 
 📂 Folder Structure
 Code
-web-projects/
+web-projects
 │
-├── landing_page/
-│   ├── index.html
-│   ├── style.css
-│
-├── temperature_converter/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│
-└── personal_portfolio/
-    ├── index.html
-    ├── style.css
-    ├── script.js
+├── landing_page
+├── temperature_converter
+└── personal_portfolio
 🛠️ Tech Stack
 HTML5 – Structure
 
